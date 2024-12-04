@@ -55,5 +55,5 @@ Deep learning models outperformed ML models by leveraging the **contextual and s
 1. **Advanced DL Models:**  Implemented state-of-the-art deep learning models, including LSTM, BERT, and mBERT, to handle the linguistic complexities of Hinglish.
 2. **Hing Llama:**
    - Hing Llama model, based on the Llama 3.1 8B Instruct architecture, was fine-tuned using the Unsloth framework with a LoRA adapter to adapt it for code-mixed cyberbullying detection.
-3. **Extensive Evaluation:**Compared traditional machine learning approaches with advanced deep learning techniques, emphasizing the superiority of DL models for code-mixed datasets.
+3. **Extensive Evaluation:** Compared traditional machine learning approaches with advanced deep learning techniques, emphasizing the superiority of DL models for code-mixed datasets.
 4. **Custom Hinglish Dataset:** Introduced the MC-Hinglish 2.0 dataset, specifically curated for multi-class cyberbullying detection tasks in a code-mixed Hinglish context.
